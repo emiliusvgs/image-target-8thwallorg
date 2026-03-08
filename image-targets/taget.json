@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/taget_luminance.jpg",
+  "metadata": null,
+  "name": "taget",
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 480,
+    "height": 640,
+    "isRotated": false,
+    "originalWidth": 480,
+    "originalHeight": 640
+  },
+  "resources": {
+    "originalImage": "taget_original.jpg",
+    "croppedImage": "taget_cropped.jpg",
+    "thumbnailImage": "taget_thumbnail.jpg",
+    "luminanceImage": "taget_luminance.jpg"
+  },
+  "created": 1772830154702,
+  "updated": 1772830154702
+}
