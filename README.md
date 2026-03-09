@@ -1,4 +1,10 @@
-Aprende a crear tu primera experiencia de Realidad Aumentada Web (WebAR) totalmente GRATIS. En este tutorial paso a paso, te enseño cómo programar un IMAGE TARGET utilizando la nueva versión de 8th Wall Open Source. 🚀
+
+
+
+https://github.com/user-attachments/assets/43482f60-7768-4ca3-8fbc-6eec5a9c50ad
+
+
+Crear tu primera experiencia de Realidad Aumentada Web (WebAR) totalmente GRATIS. En este tutorial paso a paso, te enseño cómo usar IMAGE TARGET utilizando la nueva versión de 8th Wall Open Source. 
 Descubre el video tutorial completo 
 [![Video Title](https://img.youtube.com/vi/-WLfXuZNy4g/0.jpg)](https://www.youtube.com/watch?v=-WLfXuZNy4g)
 
