@@ -11,3 +11,5 @@ https://www.tiktok.com/@emiliusvgs
 ****USA MI LOGO COMO MARCADOR****
 
 ![logo](https://github.com/user-attachments/assets/3df8c415-c1d3-47a6-a5da-1b09d3ad95a1)
+
+* En el proyecto el marcador se llama "taget" y no target. No modificar ese campo.
